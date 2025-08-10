@@ -1,0 +1,12 @@
+.web
+*.db
+__pycache__/
+*.py[cod]
+.states
+assets/external/
+*.env
+.cadence/
+.states/
+data/
+*.tar
+*.ipynb

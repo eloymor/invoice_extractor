@@ -1,0 +1,1 @@
+["invoice_number", "invoice_date", "issuer_name", "issuer_NIF", "issuer_address", "issuer_city", "issuer_postal_code", "invoice_total", "invoice_subtotal", "invoice_iva_21", "invoice_iva_10", "invoice_iva_4"]
